@@ -1,0 +1,16 @@
+After a successful career in technology, I am seeking to transition my expertise to football operations, where I can combine my technical skills with my passion for the game. My career path – from software engineer to product manager, from startup advisor to independent consultant – has equipped me with a versatile skill set that I believe can create meaningful competitive advantages for football programs.
+
+My journey with football began as a walk-on linebacker at Arizona State, followed by a brief stint in their recruiting department. While my playing career didn't progress, my passion for the game never wavered. Recently, I demonstrated the immediate impact my technical skills can have in football operations through my work with Cal Poly's football program. After learning about their time-intensive opponent scouting process, I quickly developed an automated solution that eliminated 8 hours of manual work per week, delivering customized reports directly to coordinators for their game planning.
+
+My technical background includes:
+- Building and optimizing data pipelines and warehousing systems
+- Developing APIs and internal tools that automate repetitive tasks
+- Managing products from conception to deployment at high-growth companies like AdRoll and Datadog
+- Bridging communication gaps between technical and non-technical stakeholders
+- Leveraging AI tools and automation to optimize workflows and improve team productivity
+
+What sets me apart is my ability to identify operational inefficiencies and rapidly develop solutions. Throughout my career, from growing with AdRoll from 50 to 500 employees to advising multiple tech startups, I've consistently demonstrated an ability to understand complex processes and implement streamlined solutions.
+
+I am particularly passionate about working alongside offensive and defensive coordinators to optimize their game planning and installation processes. My combination of technical expertise and football understanding allows me to enhance their work while continuing to learn the nuances of the game from experienced coaches.
+
+While I've enjoyed a successful career in tech, my goal is to contribute to the competitive excellence of a football program. I believe my background in solving complex technical challenges, combined with my understanding of football operations, positions me uniquely to help programs gain and maintain competitive advantages through technology and process optimization.
